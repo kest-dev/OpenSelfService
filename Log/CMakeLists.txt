@@ -1,0 +1,2 @@
+file (GLOB LOG_SOURCE *.h *.cpp)
+set (SOURCE_CODE LOG_SOURCE)
